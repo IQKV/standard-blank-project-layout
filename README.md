@@ -10,9 +10,9 @@
 
 ---
 
-# ✨ GitHub Profile Template
+# ✨ Blank Project Template
 
-Default Community Health Files for the organization on GitHub
+Default Community Health Files for the future project
 
 ---
 
