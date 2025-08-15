@@ -1,8 +1,8 @@
 > ## 🤔 What is this template all about?
 >
 > - This template can be used as a base layer for a GitHub profile page.
-> - Make project easy to maintain with **7 issue templates**.
-> - Quick start documentation with an extraordinary README structure.
+> - Make the project easy to maintain with **7 issue templates**.
+> - Quick-start documentation with an extraordinary README structure.
 > - Manage issues with **20 issue labels**.
 > - Make _community healthier_ with all the guides like code of conduct, contributing, support, security...
 > - Learn more with the [official GitHub guide on creating repositories from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
