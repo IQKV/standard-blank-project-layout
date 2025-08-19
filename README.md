@@ -12,7 +12,7 @@
 
 # ✨ Blank Project Template
 
-Default Community Health Files for the future project
+No Code repo for the future project.
 
 ---
 
