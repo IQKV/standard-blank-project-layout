@@ -9,7 +9,7 @@
 > - To start using it, click **[Use this template](https://github.com/dimdnk/standard-dotgithub-profile-layout/generate)** to create your new repository.
 
 ---
-
+<!-- CUT HERE -->
 # ✨ Blank Project Template
 
 No Code repo for the future project.
@@ -50,9 +50,10 @@ Please, follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
 
 This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for more details.
 
+<!-- CUT HERE -->
 ---
 
-## Project Tooling Overview
+## _GitHub Project Tooling Overview_
 
 ### 📦 Package Management
 - **pnpm** - Package manager for Node.js
