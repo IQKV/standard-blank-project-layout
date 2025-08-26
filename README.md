@@ -34,13 +34,13 @@ Conventional changelog located [here](CHANGELOG.md).
 
 ## 🙏 Community & Contributions
 
-Please, follow [Contributing](.github/CONTRIBUTING.md) page.
+Please follow [Contributing](.github/CONTRIBUTING.md) page.
 
 <a name="codeofconduct"></a>
 
 ## 📙 Code of Conduct
 
-Please, follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
+Please follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
 
 <a name="troubleshooting"></a>
 
@@ -63,10 +63,10 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 
 ### 🛠️ Development Tools
 
-- **Husky** - Git hooks management (v9.1.7)
-- **lint-staged** - Pre-commit linting (v16.1.0)
-- **Prettier** - Code formatting (v3.5.3)
-- **Stylelint** - CSS linting (v16.21.0)
+- **Husky** - Git hooks management
+- **lint-staged** - Pre-commit linting
+- **Prettier** - Code formatting
+- **Stylelint** - CSS linting
 
 ### 📋 Scripts (package.json)
 
@@ -103,7 +103,7 @@ pnpm release               # Create release with release-it
 
 ### 📄 Release Management
 
-- **release-it** - Automated versioning and publishing (v19.0.2)
+- **release-it** - Automated versioning and publishing
 - **Conventional Changelog** - Automatic changelog generation
 - **pnpm integration** - Release with pnpm support
 
