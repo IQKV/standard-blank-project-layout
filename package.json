@@ -1,5 +1,5 @@
 {
-  "name": "@iqkv/standard-github-profile-layout",
+  "name": "@know-how/standard-github-profile-layout",
   "version": "25.0.0",
   "description": "Provide an optional Git commit hooks.",
   "license": "Apache-2.0",
