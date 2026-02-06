@@ -83,7 +83,7 @@ pnpm prettier:check        # Check code formatting
 pnpm prettier:write        # Auto-format code
 
 # Maintenance
-pnpm node_modules:clear    # Clean node_modules
+pnpm node_modules:cleanup    # Clean node_modules
 pnpm prepare               # Setup husky hooks
 
 # Release
