@@ -76,8 +76,8 @@ pnpm lint                  # Run stylelint
 pnpm lint:stylelint        # Lint CSS files with cache
 
 # Code Formatting
-pnpm prettier:check        # Check code formatting
-pnpm prettier:write        # Auto-format code
+pnpm formatter:check        # Check code formatting
+pnpm formatter:write        # Auto-format code
 
 # Maintenance
 pnpm node_modules:cleanup    # Clean node_modules
