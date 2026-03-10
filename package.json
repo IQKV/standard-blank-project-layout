@@ -4,8 +4,8 @@
   "description": "Provide an optional Git commit hooks.",
   "license": "Apache-2.0",
   "scripts": {
-    "formatter:check": "prettier . --check --ignore-unknown",
-    "formatter:write": "prettier . --write",
+    "formatter:check": "oxfmt --check",
+    "formatter:write": "oxfmt --write",
     "lint": "pnpm lint:stylelint",
     "lint:stylelint": "stylelint \"**/*.css\" --aei",
     "node_modules:cleanup": "rm -rf node_modules",
