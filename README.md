@@ -65,7 +65,7 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 
 - **Husky** - Git hooks management
 - **lint-staged** - Pre-commit linting
-- **Prettier** - Code formatting
+- **oxfmt** - Code formatting
 - **Stylelint** - CSS linting
 
 ### 📋 Scripts (package.json)
@@ -80,7 +80,7 @@ pnpm formatter:check        # Check code formatting
 pnpm formatter:write        # Auto-format code
 
 # Maintenance
-pnpm node_modules:cleanup    # Clean node_modules
+pnpm node_modules:cleanup  # Clean node_modules
 pnpm prepare               # Setup husky hooks
 
 # Release
