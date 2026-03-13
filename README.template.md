@@ -72,11 +72,11 @@ console.log(result);
 
 ### Common Use Cases
 
-| Scenario | Command/Code | When to Use |
-|----------|--------------|-------------|
-| 🔧 Basic usage | `pnpm run basic` | Getting started, simple tasks |
+| Scenario         | Command/Code        | When to Use                   |
+| ---------------- | ------------------- | ----------------------------- |
+| 🔧 Basic usage   | `pnpm run basic`    | Getting started, simple tasks |
 | 🚀 Advanced mode | `pnpm run advanced` | Complex workflows, production |
-| 🧪 Testing | `pnpm test` | Validation, CI/CD |
+| 🧪 Testing       | `pnpm test`         | Validation, CI/CD             |
 
 ---
 
@@ -91,6 +91,7 @@ Brief overview of how it works:
 ```
 
 Key components:
+
 - **Component A**: What it does
 - **Component B**: What it does
 - **Component C**: What it does
