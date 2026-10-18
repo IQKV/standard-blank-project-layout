@@ -115,12 +115,12 @@ A task is evaluated as done only when all of the following hold:
 
 ### Required gates by change type
 
-| Change type | Required gates |
-| --- | --- |
-| Any change | The Quality gates commands above, plus any project-specific command added to that list |
-| Non-trivial logic (a branch, a loop, a parser) | One small test or an assert-based self-check; trivial changes need none |
-| Dependency or config change | The project's type-check or build command before presenting a result |
-| Docs or `AGENTS.md` only | No code gate — state that none applies |
+| Change type                                    | Required gates                                                                         |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Any change                                     | The Quality gates commands above, plus any project-specific command added to that list |
+| Non-trivial logic (a branch, a loop, a parser) | One small test or an assert-based self-check; trivial changes need none                |
+| Dependency or config change                    | The project's type-check or build command before presenting a result                   |
+| Docs or `AGENTS.md` only                       | No code gate — state that none applies                                                 |
 
 ### Ordering
 
